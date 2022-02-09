@@ -1,0 +1,2 @@
+# minishift
+learn openshift
